@@ -91,3 +91,14 @@
       - bioinformatics
       - excercise
       - microbiome
+
+- name: Max von Hippel
+  title: Student Research Software Engineer
+  pic: Max.png
+  github: maxvonhippel
+  site: http://mxvh.pl
+  interests:
+      - security
+      - pure mathematics
+      - theory of computation
+      - informatics & statistics
