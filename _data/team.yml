@@ -45,29 +45,22 @@
   pic: dillon.jpg
   github: thermokarst
   twitter: matthewrdillon
+  cv: https://linkedin.com/in/thermokarst
   interests:
       - web applications
       - database design
       - ux/ui
 
-- name: Kestrel Gorlick
+- name: Jorden Kreps
   title: Student Research Software Engineer
-  pic: kestrel.png
-  github: kleptobismol
+  pic: jorden.png
+  twitter: JordenKreps
+  github: jakereps
+  site: http://jordenkreps.com
+  cv: http://linkedin.com/in/jordenkreps
 
-- name: Max von Hippel
-  title: Student Research Software Engineer
-  pic: Max.png
-  github: maxvonhippel
-  site: http://mxvh.pl
-  interests:
-      - security
-      - pure mathematics
-      - theory of computation
-      - informatics & statistics
-      
 - name: Jai Ram Rideout
-  title: Research Software Engineer
+  title: Senior Research Software Engineer
   pic: jai-ram-rideout.png
   twitter: jairideout
   github: jairideout
