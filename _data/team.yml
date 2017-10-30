@@ -58,6 +58,10 @@
   github: jakereps
   site: http://jordenkreps.com
   cv: http://linkedin.com/in/jordenkreps
+  interests:
+    - backend engineering
+    - data science
+    - machine learning
 
 - name: Jai Ram Rideout
   title: Senior Research Software Engineer
