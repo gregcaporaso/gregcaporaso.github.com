@@ -33,6 +33,25 @@
   pic: kestrel.png
   github: kleptobismol
 
+- name: Jorden Kreps
+  title: Research Software Engineer
+  pic: jorden.png
+  twitter: JordenKreps
+  github: jakereps
+  site: http://jordenkreps.com
+  cv: http://linkedin.com/in/jordenkreps
+  currently:
+      url: http://biota.com
+      place: Biota Technology
+
+- name: Jai Ram Rideout
+  title: Senior Research Software Engineer
+  pic: jai-ram-rideout.png
+  twitter: jairideout
+  github: jairideout
+  currently:
+      place: Mother Earth
+
 - name: Karen Schwarzberg Lipson
   title: Postdoctoral Scholar
   pic: schwarzberg.png

@@ -51,28 +51,6 @@
       - database design
       - ux/ui
 
-- name: Jorden Kreps
-  title: Research Software Engineer
-  pic: jorden.png
-  twitter: JordenKreps
-  github: jakereps
-  site: http://jordenkreps.com
-  cv: http://linkedin.com/in/jordenkreps
-  interests:
-      - backend engineering
-      - data science
-      - machine learning
-
-- name: Jai Ram Rideout
-  title: Senior Research Software Engineer
-  pic: jai-ram-rideout.png
-  twitter: jairideout
-  github: jairideout
-  interests:
-      - library API design
-      - continuous integration
-      - performance/efficiency
-
 - name: Arron Shiffer
   title: PhD Student
   pic: Shiffer.png
