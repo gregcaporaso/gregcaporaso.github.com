@@ -51,6 +51,17 @@
       - database design
       - ux/ui
 
+- name: Turan Naimey
+  title: Student Research Software Engineer
+  pic: turan.jpg
+  github: turan1393
+  twitter: turan_naimey
+  cv: https://linkedin.com/in/turannaimey
+  interests:
+      - artificial intelligence
+      - automotive engineering
+      - web applications
+
 - name: Arron Shiffer
   title: PhD Student
   pic: Shiffer.png
