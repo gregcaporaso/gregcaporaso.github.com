@@ -51,6 +51,15 @@
       - database design
       - ux/ui
 
+- name: Chris Keefe
+  title: Student Software Engineer
+  pic: ChrisKeefe.png
+  github: ChrisKeefe
+  interests:
+      - Wildlife Biology
+      - Human-Computer Interaction
+      - Foraging/Traditional Foodways
+
 - name: Turan Naimey
   title: Student Research Software Engineer
   pic: turan.jpg
