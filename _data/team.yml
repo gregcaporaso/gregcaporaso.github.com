@@ -72,6 +72,15 @@
       - automotive engineering
       - web applications
 
+- name: Auntie QIIME
+  title: Life Coach
+  pic: qiime2.png
+  github: qiime2
+  interests:
+      - QIIME 1
+      - QIIME 2
+      - Turtles
+
 - name: Arron Shiffer
   title: PhD Student
   pic: Shiffer.png
