@@ -39,7 +39,9 @@
             QIIME 1 is an open-source, GPL-licensed platform for the analysis and
             comparison of microbial communities (or microbiomes) based on DNA
             sequence data. QIIME 1 is very widely used, having been cited over
-            3200 times since its publication in 2010.
+            14000 times since its publication in 2010. NOTE: QIIME 2 has succeeded
+            QIIME 1 as of January 1, 2018. QIIME 1 is no longer supported at
+            this time.
         github: biocore/qiime
         site: http://qiime.org
         paper: http://www.ncbi.nlm.nih.gov/pubmed/20383131
@@ -138,4 +140,4 @@
             around the world. These are hands-on, and work best when they're
             designed to be 2-3 days for approximately 30 students.
         site: https://github.com/biocore/qiime/wiki/Official-QIIME-workshops
-        pic: qiime.png
+        pic: qiime2.png
