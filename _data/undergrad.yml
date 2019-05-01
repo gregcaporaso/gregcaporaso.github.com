@@ -1,0 +1,105 @@
+# available tags:
+# site: <url>
+# video: <url>
+# slides: <url>
+# paper: <url>
+# github: <github-id>
+# twitter: <twitter-id>
+
+- name: Undergraduate Research Opportunities
+  default-icon: fa-code
+  subsections:
+      - name: Software Development
+        summary: >
+            Undergraduate Researchers in the Caporaso Lab develop and support
+            QIIME 2, a leading microbiome bioinformatics platform. Undergrads
+            contribute to the QIIME 2 framework (Python), build interactive data
+            visualizations (JavaScript, various frameworks), create and manage
+            product documentation (Jinja2, Sphinx), provide user support(Discourse),
+            explore DevOps and build pipelines (Concourse CI), and develop bioinformatics
+            plugins (Various languages).
+
+            Version control experience???
+        github: qiime2
+        pic: qiime2.png
+        site: https://qiime2.org
+
+      - name: Microbiome Bioinformatics
+        summary: >
+            As members of the Center for Applied Microbiome Science, undergraduates
+            perform bioinformatics analysis on contemporary studies. These
+            contributions yield published work, experience with research design,
+            and valuable collaborative relationships.
+            Examples: ???
+        twitter: scikitbio
+        site: http://scikit-bio.org
+        pic: skbio.png
+
+      - name: Presentations & Publications
+        summary: >
+            In addition to a strong portfolio of GitHub contributions, undergraduate
+            researchers are supported in developing conference posters and presentations,
+            collaborative, and independent research publications.
+
+            Caporaso Lab students have presented at:
+
+              - The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC18)
+              - 3rd Workshop on Statistical and Algorithmic Challenges in Microbiome Data Analysis (SACMDA)
+              -
+
+            Lorem Ipsum - do we need a separate page to link here, listing UG pubs???
+
+      - name: Research Travel
+        summary: >
+            Fully-funded opportunities to travel in support of research products
+            are frequent. In recent years, students have
+        pic: qiime1.png
+
+      - name: Flexible Work Schedule
+        summary: >
+            Undergraduates have to balance diverse responsibilities, and academic
+            performance is top priority. Students are asked to work 15-20 hours
+            per week while school is in session, and may work up to 40 hours during
+            breaks. Scheduling is flexible to accommodate courswork and exam requirements.
+
+        pic: qiime1.png
+
+- name: Apply
+  default-icon: fa-flask
+  subsections:
+      - name: Apply to PMI...
+        summary: >
+            To work with the Caporaso Lab, students must apply to the Pathogen and Microbiome Institute.
+            Click the link above to access the application. Complete, print,
+            and hand-deliver to PMI during business hours at: Applied Research &
+            Development (building #56) PMI Business office (suite 210). If noone
+            is available to answer the doorbell, drop in the blue application box
+            on the east side of the third floor.
+        site: https://nau.edu/pmi/pathogen-microbiome-institute/undergraduate-employment-opportunities/
+        pic: pmi.png
+
+      - name: ... then get in touch!
+        summary: >
+            After delivering your application, notify [Matt Dillon]
+            (mailto: matthew.dillon@nau.edu) by email. This will help us
+            access and review your application in a timely manner.
+
+- name: Contribute Informally
+  default-icon: fa-pencil-square-o
+  subsections:
+      - name: QIIME 2 on GitHub
+        summary: >
+            QIIME 2 is free, open, community-driven software. Pull requests are
+            always welcome! If you're not available for a formal position but would
+            like to contribute, check out our list of good first issues.
+        site: http://bit.ly/good_first_issues
+        pic: nau.png
+
+      - name: An Introduction to Applied Bioinformatics (IAB)
+        summary: >
+            A free, open source interactive text that introduces readers to core
+            concepts of bioinformatics in the context of their implementation
+            and application. IAB is available as a learning resource, and also
+            welcomes community contributions as GitHub pull requests.
+        site: http://readiab.org
+        pic: iab.png

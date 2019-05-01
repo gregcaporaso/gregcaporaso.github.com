@@ -5,3 +5,48 @@ subtitle: Cutting-edge science and software development
 permalink: /undergrad/
 color: MediumVioletRed
 ---
+{% for section in site.data.undergrad %}
+    <h1 id="{{section.name | downcase | replace:' ','_' }}">{{section.name}}</h1>
+    {% for subsection in section.subsections %}
+        <div class="ug">
+            <div class="ug__container">
+                <div class="ug__header">
+                    <span class="ug__title">
+                        {% if subsection.site %}
+                            <a href="{{subsection.site}}" target="_blank">{{subsection.name}}</a>
+                        {% else %}
+                            {{subsection.name}}
+                        {% endif %}
+                    </span>
+                    <span class="ug__social">
+                    {% if subsection.video %}
+                        <a href="{{subsection.video}}" target="_blank"><i class="fa fa-youtube-play"></i></a>
+                    {% endif %}
+                    {% if subsection.slides %}
+                        <a href="{{subsection.slides}}" target="_blank"><i class="fa fa-area-chart"></i></a>
+                    {% endif %}
+                    {% if subsection.paper %}
+                        <a href="{{subsection.paper}}" target="_blank"><i class="fa fa-book"></i></a>
+                    {% endif %}
+                    {% if subsection.github %}
+                        <a href="https://github.com/{{subsection.github}}" target="_blank"><i class="fa fa-github"></i></a>
+                    {% endif %}
+                    {% if subsection.twitter %}
+                        <a href="https://twitter.com/{{subsection.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a>
+                    {% endif %}
+                    </span>
+                </div>
+                <div class="ug__summary">
+                    {{subsection.summary}}
+                </div>
+            </div>
+        {% if subsection.pic %}
+            <img class="ug__image" src="/assets/undergrad/{{ subsection.pic }}" />
+        {% else %}
+            <div class="ug__image">
+                <a class='fa {{section.default-icon}}'></a>
+            </div>
+        {% endif %}
+        </div>
+    {% endfor %}
+{% endfor %}

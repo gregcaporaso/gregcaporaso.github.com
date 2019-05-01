@@ -1,0 +1,51 @@
+.ug {
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+
+.ug__container {
+    float: left;
+    max-width: 650px;
+
+}
+
+.ug__header {
+    margin-bottom: 5px;
+}
+
+.ug__title {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.ug__social {
+    font-size: 20px;
+    line-height: 26px;
+    float: right;
+}
+
+.ug__summary {
+    text-align: justify;
+}
+
+.ug__image {
+    font-size: 100px;
+    width: 110px;
+    float: right;
+    text-align: center;
+}
+
+.ug__image a {
+    text-decoration: none;
+}
+
+@media (max-width: 800px) {
+    .ug__title {
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    .ug__image {
+        display: none;
+    }
+}
