@@ -9,7 +9,7 @@ color: red
 # Jobs
 The Caporaso Lab is currently hiring at all levels, including research
 software engineers, post-doctoral scholars, and graduate and undergraduate
-students. E-mail Dr. Caporaso if you'd like to apply for a position.
+students. Undergraduates should review [undergraduate job information](/undergrad/). All others, e-mail [Dr. Caporaso](mailto:gregcaporaso@gmail.com) to inquire about a position.
 
 # Office hours
 
