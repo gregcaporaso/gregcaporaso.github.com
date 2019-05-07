@@ -7,7 +7,7 @@
 # twitter: <twitter-id>
 
 - name: Undergraduate Research Opportunities
-  default-icon: fa-code
+  default-icon: fa-plane
   subsections:
       - name: Software Development
         summary: >
@@ -33,7 +33,7 @@
             Examples: ???
         twitter: scikitbio
         site: http://scikit-bio.org
-        pic: skbio.png
+        icon: fa-flask
 
       - name: Presentations & Publications
         summary: >
@@ -48,12 +48,13 @@
               -
 
             Lorem Ipsum - do we need a separate page to link here, listing UG pubs???
+        icon: fa-book
 
       - name: Research Travel
         summary: >
             Fully-funded opportunities to travel in support of research products
             are frequent. In recent years, students have
-        pic: qiime1.png
+        icon: fa-plane
 
       - name: Flexible Work Schedule
         summary: >
@@ -62,7 +63,7 @@
             per week while school is in session, and may work up to 40 hours during
             breaks. Scheduling is flexible to accommodate courswork and exam requirements.
 
-        pic: qiime1.png
+        icon: fa-clock-o
 
 - name: Apply
   default-icon: fa-flask
@@ -83,6 +84,7 @@
             After delivering your application, notify [Matt Dillon]
             (mailto: matthew.dillon@nau.edu) by email. This will help us
             access and review your application in a timely manner.
+        icon: fa-envelope
 
 - name: Contribute Informally
   default-icon: fa-pencil-square-o
@@ -93,7 +95,7 @@
             always welcome! If you're not available for a formal position but would
             like to contribute, check out our list of good first issues.
         site: http://bit.ly/good_first_issues
-        pic: nau.png
+        icon: fa-github
 
       - name: An Introduction to Applied Bioinformatics (IAB)
         summary: >

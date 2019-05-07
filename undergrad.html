@@ -42,6 +42,10 @@ color: MediumVioletRed
             </div>
         {% if subsection.pic %}
             <img class="ug__image" src="/assets/undergrad/{{ subsection.pic }}" />
+        {% else if subsection.icon %}
+            <div class="ug__image">
+                <a class='fa {{subsection.icon}}'></a>
+            </div>
         {% else %}
             <div class="ug__image">
                 <a class='fa {{section.default-icon}}'></a>
