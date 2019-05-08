@@ -122,9 +122,11 @@ strong {
 
 .social-links {
     float:right;
-    font-size: 24px;
+    font-size: 20px;
     color: $cloudy;
     list-style-type: none;
+    margin-top:0;
+    margin-bottom:0;
 }
 
 .social-links__entry {
@@ -282,11 +284,6 @@ strong {
     .navigation,
     .social-links {
         @include centered-block();
-    }
-
-    .social-links {
-        font-size: 30px;
-        margin-top: -0.5em;
     }
 
     .page-title__text {

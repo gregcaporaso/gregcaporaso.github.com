@@ -4,6 +4,19 @@
         <span>
             <a href="https://nau.edu/pmi/">Pathogen and Microbiome Institute</a>,
             <a href="http://www.nau.edu/">Northern Arizona University</a>
+            <ul class="social-links">
+                {% if site.author.github %}
+                    <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+                        <i class="fa fa-github"></i>
+                    </a>
+                {% endif %}
+
+                {% if site.author.twitter %}
+                    <a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                {% endif %}
+            </ul>
         </span>
 
         <ul class="menu">{% for title in site.data.navigation %}{% for p in site.pages %}{% if p.title == title %}{% assign current = nil %}{% if p.title == page.title %}{% assign current = 'current' %}{% endif %}
@@ -11,18 +24,4 @@
             <li class="menu__entry"><a href="{{ '/teaching' | prepend: site.baseurl }}" target="_blank">Teaching</a>
         </ul>
     </div>
-
-    <ul class="social-links">
-        {% if site.author.github %}
-            <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
-                <i class="fa fa-github"></i>
-            </a>
-        {% endif %}
-
-        {% if site.author.twitter %}
-            <a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
-                <i class="fa fa-twitter"></i>
-            </a>
-        {% endif %}
-    </ul>
 </header>
