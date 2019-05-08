@@ -35,25 +35,21 @@
         site: http://scikit-bio.org
         icon: fa-flask
 
-      - name: Presentations & Publications
+      - name: Publications & Research Travel
         summary: >
             In addition to a strong portfolio of GitHub contributions, undergraduate
             researchers are supported in developing conference posters and presentations,
-            collaborative, and independent research publications.
+            collaborative, and independent research publications. Contributions to lab
+            publications are often welcome, and students are cited for their contributions.
 
-            Caporaso Lab students have presented at:
-
-              - The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC18)
-              - 3rd Workshop on Statistical and Algorithmic Challenges in Microbiome Data Analysis (SACMDA)
-              -
-
-            Lorem Ipsum - do we need a separate page to link here, listing UG pubs???
-        icon: fa-book
-
-      - name: Research Travel
-        summary: >
             Fully-funded opportunities to travel in support of research products
-            are frequent. In recent years, students have
+            are also frequent.Caporaso Lab students have presented at:
+
+              - The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC18) in Dallas, TX
+              - 3rd Workshop on Statistical and Algorithmic Challenges in Microbiome Data Analysis (SACMDA) in New York, NY
+              - Q2 workshops? international travel?
+              - Lorem Ipsum - do we need a separate page to link here, listing UG pubs???
+
         icon: fa-plane
 
       - name: Flexible Work Schedule
