@@ -1,5 +1,5 @@
 p {
-  line-height: 28px;
+    line-height: 28px;
 }
 
 .ug {
@@ -41,6 +41,23 @@ p {
 
 .ug__image a {
     text-decoration: none;
+}
+
+.fa-icon-black {
+    color: #333333;
+}
+
+table td, th {
+    padding: 6px 18px;
+    text-align: center;
+}
+
+table tbody {
+    vertical-align: middle;
+}
+
+table tr {
+    border: 1px solid #ccc;
 }
 
 @media (max-width: 800px) {
