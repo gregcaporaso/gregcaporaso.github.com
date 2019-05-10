@@ -7,19 +7,21 @@
 # twitter: <twitter-id>
 
 - name: Undergraduate Research Opportunities
-  default-icon: fa-plane
+  default-icon: fa-code
   subsections:
+
       - name: Software Development
         summary: >
             Undergraduate Researchers in the Caporaso Lab develop and support
-            QIIME 2, a leading microbiome bioinformatics platform. Undergrads
-            contribute to the QIIME 2 framework (Python), build interactive data
-            visualizations (JavaScript, various frameworks), create and manage
-            product documentation (Jinja2, Sphinx), provide user support(Discourse),
-            explore DevOps and build pipelines (Concourse CI), and develop bioinformatics
-            plugins (Various languages).
+            QIIME 2, a leading microbiome bioinformatics platform. Students:
 
-            Version control experience???
+              * contribute to the QIIME 2 framework (Python)
+              * build interactive data visualizations (JavaScript, various frameworks)
+              * develop bioinformatics plugins (Various languages).
+              * create and manage product documentation (Jinja2, Sphinx)
+              * provide user support(Discourse)
+              * explore DevOps and build pipelines (Concourse CI)
+
         github: qiime2
         pic: qiime2.png
         site: https://qiime2.org
@@ -62,7 +64,7 @@
         icon: fa-clock-o
 
 - name: Apply
-  default-icon: fa-flask
+  default-icon: fa-pencil-square-o
   subsections:
       - name: Apply to PMI...
         summary: >
@@ -77,10 +79,21 @@
 
       - name: ... then get in touch!
         summary: >
-            After delivering your application, notify [Matt Dillon]
-            (mailto: matthew.dillon@nau.edu) by email. This will help us
+            After delivering your application, notify [Matt Dillon](mailto: matthew.dillon@nau.edu)
+            by email. This will help us
             access and review your application in a timely manner.
         icon: fa-envelope
+
+      - name: Application schedule
+        summary: >
+            Applications are reviewed three times annually, as follows:
+
+              |           |  Spring | Summer |  Fall |
+              |-----------|---------|--------|-------|
+              | Apply by: |   1/15  |  5/15  |  9/1  |
+              | Start on: |   2/1   |  6/1   |  10/1 |
+
+        icon: fa-calendar
 
 - name: Contribute Informally
   default-icon: fa-pencil-square-o
@@ -89,15 +102,18 @@
         summary: >
             QIIME 2 is free, open, community-driven software. Pull requests are
             always welcome! If you're not available for a formal position but would
-            like to contribute, check out our list of good first issues.
-        site: http://bit.ly/good_first_issues
+            like to contribute, notify the team in a post to our
+            [developer discussion](https://forum.qiime2.org/c/dev-discussion),
+            then check out our list of [good first issues](http://bit.ly/good_first_issues).
+        site: https://github.com/qiime2/
         icon: fa-github
 
       - name: An Introduction to Applied Bioinformatics (IAB)
         summary: >
             A free, open source interactive text that introduces readers to core
             concepts of bioinformatics in the context of their implementation
-            and application. IAB is available as a learning resource, and also
-            welcomes community contributions as GitHub pull requests.
+            and application. [IAB](http://readiab.org) is available as a learning resource, and also
+            welcomes [community contributions](https://github.com/applied-bioinformatics/An-Introduction-to-Applied-Bioinformatics/blob/master/CONTRIBUTING.md)
+            as GitHub pull requests.
         site: http://readiab.org
         pic: iab.png

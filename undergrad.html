@@ -37,7 +37,7 @@ color: MediumVioletRed
                     </span>
                 </div>
                 <div class="ug__summary">
-                    {{subsection.summary}}
+                    {{subsection.summary | markdownify}}
                 </div>
             </div>
         {% if subsection.pic %}
