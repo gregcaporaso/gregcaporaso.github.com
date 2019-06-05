@@ -61,16 +61,14 @@
       - Human-Computer Interaction
       - Foraging/Traditional Foodways
 
-- name: Turan Naimey
+- name: David Rodriguez
   title: Student Research Software Engineer
-  pic: turan.jpg
-  github: turanoo
-  twitter: turan_naimey
-  cv: https://linkedin.com/in/turannaimey
+  pic: DavidRodriguez.jpg
+  github: Davrod29
   interests:
-      - artificial intelligence
-      - automotive engineering
-      - web applications
+      - programming
+      - mountain biking
+      - health sciences
 
 - name: Arron Shiffer
   title: PhD Student
@@ -90,11 +88,3 @@
       - video games
       - guitar
 
-- name: David Rodriguez
-  title: Student Research Software Engineer
-  pic: DavidRodriguez.jpg
-  github: Davrod29
-  interests:
-      - programming
-      - mountain biking
-      - health sciences
