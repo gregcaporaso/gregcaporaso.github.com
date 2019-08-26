@@ -13,6 +13,13 @@
 #       place: New Example Lab
 #       url: example.com
 
+- name: Nick Bokulich
+  title: Postdoctoral Scholar
+  pic: nick.png
+  github: nbokulich
+  currently:
+      place: Assistant Research Professor, Northern Arizona University
+
 - name: Katy Califf
   pic: katy.png
   title: Postdoctoral Scholar

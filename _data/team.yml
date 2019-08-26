@@ -25,11 +25,6 @@
       - microbiomes
       - education
 
-- name: Nick Bokulich
-  title: Postdoctoral Scholar
-  pic: nick.png
-  github: nbokulich
-
 - name: Evan Bolyen
   title: Research Software Engineer
   pic: evan.png
@@ -87,4 +82,3 @@
       - programming
       - video games
       - guitar
-
