@@ -87,6 +87,15 @@
   currently:
       place: Arizona State University
 
+- name: Arron Shiffer
+  title: PhD Student
+  pic: Shiffer.png
+  github: shiffer1
+  interests:
+      - bioinformatics
+      - excercise
+      - microbiome
+
 - name: Max von Hippel
   title: Student Research Software Engineer
   pic: Max.png
