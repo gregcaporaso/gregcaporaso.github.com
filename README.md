@@ -9,7 +9,7 @@ whatever mechanism or channel that is most appropriate for you. Once you have
 `jekyll` installed you should be able to view the site locally by running:
 
 ```bash
-jekyll run
+jekyll serve
 ```
 
 ## Adding a New Team Member
