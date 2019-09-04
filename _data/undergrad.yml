@@ -13,11 +13,14 @@
       - name: Software Development
         summary: >
             Undergraduate Researchers in the Caporaso Lab develop and support
-            QIIME 2, a leading microbiome bioinformatics platform. Students:
+            QIIME 2, a leading microbiome bioinformatics platform. 
 
-              * contribute to the QIIME 2 framework (Python)
-              * build interactive data visualizations (JavaScript, various frameworks)
-              * develop bioinformatics plugins (Various languages).
+
+            Typically students will: 
+
+              * contribute to the [QIIME 2 ecosystem](https://github.com/qiime2) (Python)
+              * design and build interactive data visualizations (JavaScript, various frameworks)
+              * develop bioinformatics plugins (Various languages)
               * create and manage product documentation (Jinja2, Sphinx)
               * provide user support (Discourse)
               * explore DevOps and build pipelines (Concourse CI)
@@ -32,7 +35,6 @@
             perform bioinformatics analysis on contemporary studies. These
             contributions yield published work, experience with research design,
             and valuable collaborative relationships.
-            Examples: ???
         twitter: qiime2
         icon: fa-flask
 
@@ -49,8 +51,7 @@
 
               - 3rd Workshop on Statistical and Algorithmic Challenges in Microbiome Data Analysis ([SACMDA](https://www.simonsfoundation.org/event/3rd-workshop-on-statistical-and-algorithmic-challenges-in-microbiome-data-analysis/)) in New York, NY
               - The International Conference for High Performance Computing, Networking, Storage, and Analysis ([SC18](https://sc18.supercomputing.org/)) in Dallas, TX
-              - Q2 workshops? international travel?
-              - Lorem Ipsum - do we need a separate page to link here, listing UG pubs???
+              - QIIME 2 workshops in Phoenix and Las Vegas
 
         icon: fa-plane
 
@@ -59,7 +60,8 @@
             Undergraduates balance diverse responsibilities, and academic
             performance is top priority. Students are asked to work 15-20 hours
             per week while school is in session, and may work up to 40 hours during
-            breaks. Flexible scheduling accommodates coursework and exam requirements.
+            breaks (subject to Northern Arizona University employment policies). 
+            Flexible scheduling accommodates coursework and exam requirements.
 
         icon: fa-clock-o
 
@@ -78,7 +80,7 @@
 
       - name: ... then get in touch!
         summary: >
-            After delivering your application, notify [Matt Dillon](mailto: matthew.dillon@nau.edu)
+            After delivering your application, notify [Matthew Dillon](mailto: matthew.dillon@nau.edu)
             by email. This will help us access and review your application in a timely manner.
         icon: fa-envelope
 
