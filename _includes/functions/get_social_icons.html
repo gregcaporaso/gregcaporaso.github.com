@@ -1,0 +1,5 @@
+{% for valid_tag in site.data.social %}
+  {% if subsection[valid_tag.tag] %}
+  <a href="{{valid_tag.base_url}}{{subsection[valid_tag.tag]}}" target="_blank"><i class="{{valid_tag.css_class}}"></i></a>
+  {% endif %}
+{% endfor %}

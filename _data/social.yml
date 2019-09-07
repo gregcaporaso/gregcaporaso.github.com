@@ -1,0 +1,12 @@
+- tag: video
+  css_class: fa fa-youtube-play
+- tag: slides
+  css_class: fa fa-area-chart
+- tag: paper
+  css_class: fa fa-book
+- tag: github
+  base_url: https://github.com/
+  css_class: fa fa-github
+- tag: twitter
+  base_url: https://twitter.com/
+  css_class: fa fa-twitter

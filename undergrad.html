@@ -19,21 +19,7 @@ color: MediumVioletRed
                         {% endif %}
                     </span>
                     <span class="ug__social">
-                    {% if subsection.video %}
-                        <a href="{{subsection.video}}" target="_blank"><i class="fa fa-youtube-play"></i></a>
-                    {% endif %}
-                    {% if subsection.slides %}
-                        <a href="{{subsection.slides}}" target="_blank"><i class="fa fa-area-chart"></i></a>
-                    {% endif %}
-                    {% if subsection.paper %}
-                        <a href="{{subsection.paper}}" target="_blank"><i class="fa fa-book"></i></a>
-                    {% endif %}
-                    {% if subsection.github %}
-                        <a href="https://github.com/{{subsection.github}}" target="_blank"><i class="fa fa-github"></i></a>
-                    {% endif %}
-                    {% if subsection.twitter %}
-                        <a href="https://twitter.com/{{subsection.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a>
-                    {% endif %}
+                    {% include functions/get_social_icons.html %}
                     </span>
                 </div>
                 <div class="ug__summary">

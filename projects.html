@@ -19,21 +19,8 @@ color: green
                         {% endif %}
                     </span>
                     <span class="project__social">
-                    {% if project.video %}
-                        <a href="{{project.video}}" target="_blank"><i class="fa fa-youtube-play"></i></a>
-                    {% endif %}
-                    {% if project.slides %}
-                        <a href="{{project.slides}}" target="_blank"><i class="fa fa-area-chart"></i></a>
-                    {% endif %}
-                    {% if project.paper %}
-                        <a href="{{project.paper}}" target="_blank"><i class="fa fa-book"></i></a>
-                    {% endif %}
-                    {% if project.github %}
-                        <a href="https://github.com/{{project.github}}" target="_blank"><i class="fa fa-github"></i></a>
-                    {% endif %}
-                    {% if project.twitter %}
-                        <a href="https://twitter.com/{{project.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a>
-                    {% endif %}
+                    {% assign subsection = project %}
+                    {% include functions/get_social_icons.html %}
                     </span>
                 </div>
                 <div class="project__summary">
