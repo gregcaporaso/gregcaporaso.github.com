@@ -19,8 +19,7 @@ color: green
                         {% endif %}
                     </span>
                     <span class="project__social">
-                    {% assign subsection = project %}
-                    {% include functions/get_social_icons.html %}
+                    {% include functions/get_social_icons.html content_block=project %}
                     </span>
                 </div>
                 <div class="project__summary">
