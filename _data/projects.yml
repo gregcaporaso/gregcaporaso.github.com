@@ -20,9 +20,9 @@
         github: qiime2
         twitter: qiime2
         pic: qiime2.png
-
         site: https://qiime2.org
-        paper: http://www.ncbi.nlm.nih.gov/pubmed/20383131
+        paper: https://www.nature.com/articles/s41587-019-0209-9
+
       - name: scikit-bio
         summary: >
             scikit-bio is an open-source, BSD-licensed Python package providing
@@ -39,7 +39,7 @@
             QIIME 1 is an open-source, GPL-licensed platform for the analysis and
             comparison of microbial communities (or microbiomes) based on DNA
             sequence data. QIIME 1 is very widely used, having been cited over
-            14000 times since its publication in 2010. NOTE: QIIME 2 has succeeded
+            16000 times since its publication in 2010. NOTE: QIIME 2 has succeeded
             QIIME 1 as of January 1, 2018. QIIME 1 is no longer supported at
             this time.
         github: biocore/qiime
