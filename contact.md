@@ -9,7 +9,7 @@ color: red
 # Jobs
 The Caporaso Lab is currently hiring at all levels, including research
 software engineers, post-doctoral scholars, and graduate and undergraduate
-students. Undergraduates should review [undergraduate job information](/undergrad/). All others, e-mail [Dr. Caporaso](mailto:gregcaporaso@gmail.com) to inquire about a position.
+students. Undergraduates should review [undergraduate job information](/undergrad/). All others, e-mail [Dr. Caporaso](mailto:greg.caporaso@nau.edu) to inquire about a position.
 
 # Office hours
 
@@ -29,7 +29,7 @@ PO Box 4073<br>
 Flagstaff, AZ 86011-4073, USA.
 
 # E-mail
-<gregcaporaso@gmail.com>
+<greg.caporaso@nau.edu>
 
 # Phone and fax
 (928) 523-5845 (office)<br>
