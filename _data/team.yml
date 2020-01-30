@@ -65,6 +65,17 @@
       - mountain biking
       - health sciences
 
+- name: Andrew Sanchez
+  title: Research Software Engineer
+  pic: andrewsanchez.png
+  github: andrewsanchez
+  site: http://andrewsanchez.me/
+  cv: http://andrewsanchez.me/cv
+  interests:
+      - travel
+      - aerial arts
+      - effective altruism
+
 - name: Anthony Simard
   title: Student Research Software Engineer
   pic: AnthonySimard.png
