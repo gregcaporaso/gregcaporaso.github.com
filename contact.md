@@ -13,9 +13,10 @@ students. Undergraduates should review [undergraduate job information](/undergra
 
 # Office hours
 
-All lab member office hours are open to the public. These are held in ARD 220 (see the map below).
+All lab member office hours are open to the public.
 
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=49fk5nt75q2j7f7sma4br11nic%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=America%2FPhoenix" style="border-width:0" width="600" height="300" frameborder="0" scrolling="no"></iframe>
+Due to COVID-19, during the summer of 2020 all office hours will be held by video conference, and by appointment only. To schedule office hours, please contact lab members by e-mail or Slack.
+
 
 # FedEx and UPS
 J. Gregory Caporaso, Ph.D.<br>
