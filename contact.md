@@ -13,10 +13,7 @@ students. Undergraduates should review [undergraduate job information](/undergra
 
 # Office hours
 
-All lab member office hours are open to the public.
-
 Due to COVID-19, during the summer of 2020 all office hours will be held by video conference, and by appointment only. To schedule office hours, please contact lab members by e-mail or Slack.
-
 
 # FedEx and UPS
 J. Gregory Caporaso, Ph.D.<br>
