@@ -59,6 +59,15 @@
   currently:
       place: Mother Earth
 
+- name: David Rodriguez
+  title: Student Research Software Engineer
+  pic: DavidRodriguez.jpg
+  github: Davrod29
+  interests:
+      - programming
+      - mountain biking
+      - health sciences
+
 - name: Karen Schwarzberg Lipson
   title: Postdoctoral Scholar
   pic: schwarzberg.png
