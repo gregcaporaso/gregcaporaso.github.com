@@ -45,6 +45,15 @@
       - web applications
       - database design
       - ux/ui
+      
+- name: Chloe Herman
+  title: PhD Student
+  pic: ChloeHerman.png
+  github: cherman2
+  interests:
+      - Bioinformatics
+      - Hiking
+      - Bread Baking
 
 - name: Chris Keefe
   title: Student Research Software Engineer
@@ -84,14 +93,3 @@
       - programming
       - video games
       - guitar
-      
-- name: Chloe Herman
-  title: PhD Student
-  pic: ChloeHerman.png
-  github: cherman2
-  interests:
-      - Bioinformatics
-      - Hiking
-      - Bread Baking
-         
-
