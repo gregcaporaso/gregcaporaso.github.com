@@ -70,20 +70,6 @@ color: dodgerblue
                 <a href="{{person.site}}" target='_blank' title="{{person.name}}'s Website'"><i class="fa fa-link"></i></a>
             {% endif %}
             </li>
-
-            {% if person.currently %}
-            <li class='details__attribute details--interests'>
-                Now at:<br />
-            {% if person.currently.url %}
-                <a href={{person.currently.url}} target="_blank">
-            {% endif %}
-                <span class='attribute__interest'>{{person.currently.place}}</span>
-            {% if person.currently.url %}
-                </a>
-            {% endif %}
-            </li>
-            {% endif %}
-
         </ul>
     </div>
     {% endfor %}

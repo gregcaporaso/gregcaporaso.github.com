@@ -9,16 +9,11 @@
 #   github: yourgithub
 #   site: http://example.com
 #   cv: http://example.com/my-cv.pdf
-#   currently:
-#       place: New Example Lab
-#       url: example.com
 
 - name: Nick Bokulich
   title: Postdoctoral Scholar
   pic: nick.png
   github: nbokulich
-  currently:
-      place: Assistant Research Professor, Northern Arizona University
 
 - name: Katy Califf
   pic: katy.png
@@ -31,9 +26,6 @@
   title: Biological Data Scientist
   twitter: ChaseJc33
   github: johnchase
-  currently:
-      url: http://biota.com
-      place: Biota Technology
 
 - name: Kestrel Gorlick
   title: Student Research Software Engineer
@@ -47,17 +39,12 @@
   github: jakereps
   site: http://jordenkreps.com
   cv: http://linkedin.com/in/jordenkreps
-  currently:
-      url: http://biota.com
-      place: Biota Technology
 
 - name: Jai Ram Rideout
   title: Senior Research Software Engineer
   pic: jai-ram-rideout.png
   twitter: jairideout
   github: jairideout
-  currently:
-      place: Mother Earth
 
 - name: David Rodriguez
   title: Student Research Software Engineer
@@ -77,8 +64,6 @@
 - name: William Mercurio
   title: Student Research Scientist
   github: wmercurio
-  currently:
-      place: University of Colorado at Boulder, Department of Molecular, Cellular and Developmental Biology (PhD student)
 
 - name: Turan Naimey
   title: Student Research Software Engineer
@@ -93,8 +78,6 @@
   twitter: anderspitman
   github: anderspitman
   site: http://anderspitman.com
-  currently:
-      place: Arizona State University
 
 - name: Arron Shiffer
   title: PhD Student
