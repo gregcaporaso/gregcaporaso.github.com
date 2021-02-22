@@ -45,6 +45,16 @@
       - web applications
       - database design
       - ux/ui
+
+- name: Keegan Evans
+  title: Research Software Engineer
+  pic: keegan.jpeg
+  github: Keegan-Evans
+  site: https://keeganevans.com
+  interests: 
+      - skiing
+      - naval history
+      - bikes
       
 - name: Chloe Herman
   title: PhD Student
