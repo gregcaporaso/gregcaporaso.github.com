@@ -55,6 +55,16 @@
       - skiing
       - naval history
       - bikes
+
+- name: Liz Gehret
+  title: Research Software Engineer
+  pic: LizG-headshot.jpg 
+  github: lizgehret
+  cv: https://www.linkedin.com/in/elizabeth-gehret-a28732174
+  interests:
+      - aerial rope 
+      - rock climbing
+      - plants & bones
       
 - name: Chloe Herman
   title: PhD Student
