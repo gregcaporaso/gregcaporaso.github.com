@@ -51,21 +51,21 @@
   pic: keegan.jpeg
   github: Keegan-Evans
   site: https://keeganevans.com
-  interests: 
+  interests:
       - skiing
       - naval history
       - bikes
 
 - name: Liz Gehret
   title: Research Software Engineer
-  pic: LizG.jpeg 
+  pic: LizG.jpeg
   github: lizgehret
   cv: https://www.linkedin.com/in/elizabeth-gehret-a28732174
   interests:
-      - aerial rope 
+      - aerial rope
       - rock climbing
       - plants & bones
-      
+
 - name: Chloe Herman
   title: PhD Student
   pic: ChloeHerman.png
