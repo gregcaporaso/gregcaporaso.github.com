@@ -11,9 +11,6 @@ The Caporaso Lab is currently hiring at all levels, including research
 software engineers, post-doctoral scholars, and graduate and undergraduate
 students. Undergraduates should review [undergraduate job information](/undergrad/). All others, e-mail [Dr. Caporaso](mailto:greg.caporaso@nau.edu) to inquire about a position.
 
-# Office hours
-Due to COVID-19, during the summer of 2020 all office hours will be held by video conference, and by appointment only. To schedule office hours, please contact lab members by e-mail or Slack.
-
 # FedEx and UPS
 J. Gregory Caporaso, Ph.D.<br>
 Northern Arizona University<br>
