@@ -76,17 +76,6 @@
       - Hiking
       - Bread Baking
 
-- name: Anton Hibl
-  title: Student Research Software Engineer
-  pic: AntonHibl.jpg
-  github: antonhibl
-  interests:
-    - Cryptography
-    - Quantum Computing
-    - Chemistry
-    - Guitar
-    - Soccer
-
 - name: Chris Keefe
   title: Student Research Software Engineer
   pic: ChrisKeefe.png

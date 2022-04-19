@@ -32,6 +32,17 @@
   pic: kestrel.png
   github: kleptobismol
 
+- name: Anton Hibl
+  title: Student Research Software Engineer
+  pic: AntonHibl.jpg
+  github: antonhibl
+  interests:
+    - Cryptography
+    - Quantum Computing
+    - Chemistry
+    - Guitar
+    - Soccer
+
 - name: Jorden Kreps
   title: Research Software Engineer
   pic: jorden.png
