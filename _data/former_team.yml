@@ -27,6 +27,18 @@
   twitter: ChaseJc33
   github: johnchase
 
+- name: Matthew Dillon
+  title: Senior Research Software Engineer
+  pic: dillon.jpg
+  site: https://thermokar.st
+  github: thermokarst
+  twitter: matthewrdillon
+  cv: https://docs.google.com/document/d/e/2PACX-1vSSAGQWRA5yENXD6BwuTDY1EAMEMws4RcxfkW6wa8Y3jddS4d0C3go4-0mJO-94FHi1X_zRg8w-Cplp/pub
+  interests:
+      - bikepacking
+      - cross-stitch
+      - web dev
+
 - name: Kestrel Gorlick
   title: Student Research Software Engineer
   pic: kestrel.png
