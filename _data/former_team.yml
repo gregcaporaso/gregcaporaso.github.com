@@ -55,6 +55,16 @@
     - Guitar
     - Soccer
 
+- name: Chris Keefe
+  title: Student Research Software Engineer
+  pic: ChrisKeefe.png
+  github: ChrisKeefe
+  cv: https://www.linkedin.com/in/CRKeefe/
+  interests:
+      - Ecology
+      - Code
+      - Wild Foods
+
 - name: Jorden Kreps
   title: Research Software Engineer
   pic: jorden.png
