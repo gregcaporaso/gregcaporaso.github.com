@@ -49,11 +49,11 @@
   pic: AntonHibl.jpg
   github: antonhibl
   interests:
-    - Cryptography
-    - Quantum Computing
-    - Chemistry
-    - Guitar
-    - Soccer
+    - cryptography
+    - quantum computing
+    - chemistry
+    - guitar
+    - soccer
 
 - name: Chris Keefe
   title: Student Research Software Engineer
@@ -61,9 +61,9 @@
   github: ChrisKeefe
   cv: https://www.linkedin.com/in/CRKeefe/
   interests:
-      - Ecology
-      - Code
-      - Wild Foods
+      - ecology
+      - code
+      - wild foods
 
 - name: Jorden Kreps
   title: Research Software Engineer
