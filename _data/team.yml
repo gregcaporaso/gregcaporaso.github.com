@@ -58,11 +58,12 @@
 - name: Chloe Herman
   title: PhD Student
   pic: ChloeHerman.png
+  twitter: chloeroseherman
   github: cherman2
   interests:
-      - Bioinformatics
-      - Hiking
-      - Bread Baking
+      - metadata standardization
+      - hiking
+      - bread baking
 
 - name: Jeff Meilander
   title: PhD Student
