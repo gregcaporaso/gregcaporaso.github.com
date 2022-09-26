@@ -34,10 +34,6 @@
   github: thermokarst
   twitter: matthewrdillon
   cv: https://docs.google.com/document/d/e/2PACX-1vSSAGQWRA5yENXD6BwuTDY1EAMEMws4RcxfkW6wa8Y3jddS4d0C3go4-0mJO-94FHi1X_zRg8w-Cplp/pub
-  interests:
-      - bikepacking
-      - cross-stitch
-      - web dev
 
 - name: Kestrel Gorlick
   title: Student Research Software Engineer
@@ -48,22 +44,12 @@
   title: Student Research Software Engineer
   pic: AntonHibl.jpg
   github: antonhibl
-  interests:
-    - cryptography
-    - quantum computing
-    - chemistry
-    - guitar
-    - soccer
 
 - name: Chris Keefe
   title: Student Research Software Engineer
   pic: ChrisKeefe.png
   github: ChrisKeefe
   cv: https://www.linkedin.com/in/CRKeefe/
-  interests:
-      - ecology
-      - code
-      - wild foods
 
 - name: Jorden Kreps
   title: Research Software Engineer
@@ -83,10 +69,6 @@
   title: Student Research Software Engineer
   pic: DavidRodriguez.jpg
   github: Davrod29
-  interests:
-      - programming
-      - mountain biking
-      - health sciences
 
 - name: Karen Schwarzberg Lipson
   title: Postdoctoral Scholar
@@ -117,10 +99,6 @@
   pic: Andrew_Sanchez.png
   github: andrewsanchez
   cv: https://www.linkedin.com/in/andrewasanchez/
-  interests:
-      - travel
-      - aerial arts
-      - effective altruism
 
 - name: Arron Shiffer
   title: PhD Student
