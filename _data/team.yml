@@ -66,12 +66,11 @@
 
 - name: Jeff Meilander
   title: PhD Student
-  pic:
-  cv:
+  pic: JeffMeilander.png
   interests:
-      -
-      -
-      -
+      - sustainable agriculture
+      - hockey
+      - hiking/backpacking
 
 - name: Anthony Simard
   title: Research Software Engineer
