@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-subtitle: We have diverse backgrounds, but we all love microbes and computers.
+subtitle: The Caporaso Lab is an ever-evolving team of biologists, professional research software engineers, and students of those disciplines.
 permalink: /team/
 color: dodgerblue
 ---
@@ -9,9 +9,9 @@ color: dodgerblue
     {% for person in site.data.team %}
     <div class='person'>
     {% if person.pic %}
-        <img src='/assets/team/{{ person.pic }}'/>
+        <img src='{{ site.baseurl }}/assets/team/{{ person.pic }}'/>
     {% else %}
-        <a class='fa fa-user-secret' title='{{ person.name }} is too cool for a picture :-(' style='font-size: 200px; text-decoration:none;'></a>
+        <a class='fa fa-user-secret' title='{{ person.name }} has not posted a picture' style='font-size: 200px; text-decoration:none;'></a>
     {% endif %}
         <ul class='details'>
             <li class='details__attribute details--name'>{{ person.name }}</li>
@@ -49,9 +49,9 @@ color: dodgerblue
     {% for person in site.data.former_team %}
     <div class='person'>
     {% if person.pic %}
-        <img src='/assets/team/{{ person.pic }}'/>
+        <img src='{{ site.baseurl }}/assets/team/{{ person.pic }}'/>
     {% else %}
-        <a class='fa fa-user-secret' title='{{ person.name }} is too cool for a picture :-(' style='font-size: 200px; text-decoration:none;'></a>
+        <a class='fa fa-user-secret' title='{{ person.name }} has not posted a picture' style='font-size: 200px; text-decoration:none;'></a>
     {% endif %}
         <ul class='details'>
             <li class='details__attribute details--name'>{{ person.name }}</li>

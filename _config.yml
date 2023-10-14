@@ -1,20 +1,16 @@
-# Site settings
 title: Caporaso Lab
 description: >
   The Caporaso Lab at Northern Arizona University. We focus on bioinformatics
   software development, and applying bioinformatics to study the human
   microbiome.
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://caporasolab.us" # the base hostname & protocol for your site
+baseurl: "/nau" # the subpath of your site, e.g. /blog/
+url: "https://cap-lab.bio" # the base hostname & protocol for your site
 
 author:
-  fullname: Greg Caporaso
-  # googleplus:
+  fullname: Cap Lab
   github: caporaso-lab
   youtube: qiime2
-
-google_analytics: 'UA-6636235-10'
 
 # Build settings
 markdown: kramdown
