@@ -7,7 +7,9 @@ color: red
 ---
 
 # QIIME 2 Support
-If you're looking for help with QIIME 2, please visit the [QIIME 2 Forum](https://forum.qiime2.org). Start by searching to see if your question has already been answered, and if not feel free to create a new post. Posting to the QIIME 2 Forum is generally quicker than emailing the developers directly as multiple moderators are always tracking posts on the QIIME 2 Forum.
+If you're looking for help with QIIME 2, please visit the [QIIME 2 Forum](https://forum.qiime2.org). Start by searching to see if your question has already been answered, and if not feel free to create a new post. It's free!
+
+Requesting help on the QIIME 2 Forum is generally quicker than contacting the developers directly. We sometimes lose track of our email, but multiple moderators are always tracking posts on the Forum.
 
 # Jobs
 The Caporaso Lab is often hiring. Position types include research
