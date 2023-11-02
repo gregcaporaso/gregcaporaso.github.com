@@ -12,10 +12,10 @@ If you're looking for help with QIIME 2, please visit the [QIIME 2 Forum](https:
 Requesting help on the QIIME 2 Forum is generally quicker than contacting the developers directly. We sometimes lose track of our email, but multiple moderators are always tracking posts on the Forum.
 
 # q2-jobs: the QIIME 2 Forum Job Board
-The Caporaso Lab is often hiring, and all of our positions (and others) are advertised on [q2-jobs, the QIIME 2 Forum Job Board](https://forum.qiime2.org/c/Miscellaneous-categories/employment-opportunties).
+The Caporaso Lab is often hiring, and all of our positions (and others) are advertised on [q2-jobs, the QIIME 2 Forum Job Board](https://forum.qiime2.org/c/q2-jobs).
 Caporaso Lab position types include research software engineers, post-doctoral scholars, graduate research assistants, writers, project managers, and administrative assistants.
 
-**If you'd like to advertise an open position**, you can post to [q2-jobs](https://forum.qiime2.org/c/Miscellaneous-categories/employment-opportunties). We just ask that posts are restricted to jobs relevant to the QIIME 2 user and developer community.
+**If you'd like to advertise an open position**, you can post to [q2-jobs](https://forum.qiime2.org/c/q2-jobs). We just ask that posts are restricted to jobs relevant to the QIIME 2 user and developer community.
 
 Undergraduates interested in positions should review our [undergraduate job information](/undergrad/).
 
