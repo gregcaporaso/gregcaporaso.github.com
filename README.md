@@ -1,6 +1,6 @@
 # Caporaso Lab Website
 
-http://caporasolab.us
+https://cap-lab.bio
 
 ## Bootstrapping a Development Environment
 
