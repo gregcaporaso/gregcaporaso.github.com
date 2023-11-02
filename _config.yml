@@ -1,10 +1,8 @@
 title: Caporaso Lab
 description: >
-  The Caporaso Lab at Northern Arizona University. We focus on bioinformatics
-  software development, and applying bioinformatics to study the human
-  microbiome.
+  Developing production-quality software products to study our microbial world.
 
-baseurl: "/nau" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://cap-lab.bio" # the base hostname & protocol for your site
 
 author:
